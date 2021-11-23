@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Raviraj Mangukiya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=mangukiya42&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangukiya42&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=4&exclude_repo=mangukiya42&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=mangukiya42&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangukiya42&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=4&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 <p align="center">
   <a href="https://github.com/mangukiya42"><span>
